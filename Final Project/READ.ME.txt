@@ -1,0 +1,37 @@
+
+STEPS TO RUN THE "pharmaceutical inventory system"
+
+[STEP #1] --- DOWNLOAD AND INSTALL XAMPP
+
+[STEP #2] --- OPEN THE XAMPP and CLICK START (Mysql and Apache)
+
+[STEP #3] --- DOWNLOAD THE ZIP FILE Final Project (Group 1)"
+
+[STEP #4] --- EXTRACT THE FILE AND COPY "Final Project" folder
+
+[STEP #5] --- PASTE INSIDE ROOT DIRECTORY/ WHERE YOU INSTALL XAMPP (DEFAULT LOCATION OF XAMPP: [LOCAL DISK C:])  PASTE IT HERE: (for XAMPP/htdocs) 
+
+[STEP #6] --- GO TO THIS LINK (http://localhost/phpmyadmin)
+
+[STEP #7]--- CREATE A DATABASE WITH A NAME: (pharmacydb) Example: pharmacydb
+
+[STEP #8] --- IMPORT archiving_db.sql FILE (YOU CAN FOUND IT INSIDE THE "Final Project" FOLDER) 
+
+[STEP #6] --- GO TO THIS LINK (http://localhost/FINAL%20PROJECT/index.php)
+
+
+	                                    
+	###[LOGIN-DETAILS]###
+
+	#--[ADMIN ACCOUNT]--1
+	#USERNAME: admin
+	#PASSWORD: admin
+
+	#--[USER ACCOUNT]-- 1
+	#USERNAME: admin
+	#PASSWORD: test
+Warning!! 
+
+log in page cannot can you proceed in the profile.php or dashboard.php thank you!!
+
+	
